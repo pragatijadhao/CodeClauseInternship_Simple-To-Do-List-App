@@ -50,5 +50,5 @@ This project is licensed under the MIT License.
 
 ### 👤 Author
 
-**Pragati Jadhav**  
+**Pragati Jadhao**  
 [GitHub Profile](https://github.com/your-username)
